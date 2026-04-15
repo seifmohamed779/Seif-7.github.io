@@ -185,10 +185,10 @@ button {
 }
 
 .logos{
-    position: absolute;
-    bottom: 60px;
-    left: 50%;
-    transform: translate(-50%, -50%);
+  margin-top: 20px;
+  display: flex;
+  gap: 15px;
+  justify-content: center;
 }
 .logos i{
     font-size: x-large;
