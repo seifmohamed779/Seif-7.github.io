@@ -171,6 +171,7 @@ button {
   align-items: center;
   text-align: center;
   padding:40px 20px
+  min-height: 100vh;
 }
 .contact h1 {
   font-size: 80px;
